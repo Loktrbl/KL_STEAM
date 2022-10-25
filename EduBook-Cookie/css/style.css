@@ -27,7 +27,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #ef2317;
+    background:#556e18 ;
 }
 
 .heade__top-left{
@@ -73,6 +73,7 @@ body{
 
 .header__bottom {
  padding: 12px 0;
+ background:#667bdb ;
 }
 
 .header__logo {
@@ -228,7 +229,7 @@ body{
 
 .header__nav-menu-wrap{
     height: 4.8rem;
-    background: #ef2317;
+    background: #AEBD38;
     display: flex;
     align-items: center;
     border-top-left-radius: 2px;
